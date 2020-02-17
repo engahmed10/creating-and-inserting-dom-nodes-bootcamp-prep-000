@@ -6,6 +6,7 @@ element.innerHTML = 'Hello, DOM!';
 element.style.backgroundColor = '#f9f9f9';
 appendChild()
 document.body.appendChild(element);
+<<<<<<< HEAD
 var ul = document.createElement('ul');
  
 for (let i = 0; i < 3; i++) {
@@ -15,3 +16,5 @@ for (let i = 0; i < 3; i++) {
 }
  
 element.appendChild(ul);
+=======
+>>>>>>> 15c60db3ee6914afa3b017bc35468b006b4eb515
